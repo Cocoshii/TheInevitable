@@ -1,4 +1,7 @@
 # The Inevitable
+
+Access to zip file: https://drive.google.com/file/d/1DBtP-2Dq8fBtsb3FeNCjx9qB0c59UPIv/view?usp=sharing
+
 The Inevitable is a very simple visual novel that I made in high school for a grade 12 school project using Pygame.
 I had only been learning Python for a little under 2 years and by working on this project, I learned how to plan out a game's
 plot, mechanics, characters, and other game features in a short period of time, and then finding a way to implement these assets from scratch.
