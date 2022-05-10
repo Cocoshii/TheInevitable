@@ -14,3 +14,5 @@ exercise my ability to create something from nothing with the current knowledge 
 
 Given I only had under 2 years of experience with actual programming, I view this project as the first project where I put to the test, everything
 I learned in my computer science classes. I hope to eventually develop fully-fledged programs or games as I continue to learn about programming.
+
+Note: In order to run the program, you must install the Pygame plug-in on Thonny.
